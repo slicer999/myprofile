@@ -1,0 +1,15 @@
+GOOGLE FONT
+
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Righteous', cursive;
+
+    font-family: 'Permanent Marker', cursive;
+
+    font-family: 'Courgette', cursive;
+
+    font-family: 'Tinos', serif;
+
+    font-family: 'Barlow Semi Condensed', sans-serif;
+
